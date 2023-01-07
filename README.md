@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tbathat&label=Profile%20views&color=0e75b6&style=flat" alt="tbathat" /> </p>
 
 - :star2: Atualmente estou me especializando em análise e desenvolvimento de programas para ampliar a familiaridade com a arquitetura, gestão e qualidade de dados.
-- 🌱 *Estou **desenvolvendo um projeto** onde crio uma API Rest utilizando Node.js com Typescript e rodando micro-serviços na cloud Azure para consumo de uma API externa de serviço de meteorologia para verificação da direção dos ventos em praias que podem ser catalogadas pelo usuário. Como poderão verificar, sigo boas práticas de desenvolvimento como: testes de integração; error handling; API design.*
+- 🌱 *Estou **desenvolvendo um projeto** de  Rest com Node.js e Typescript que você pode clicar [aqui](https://github.com/tbathat/node-typescript-api-wind) para visitar o meu código e a proposta do projeto.*
 
 - 📝 Você pode conhecer algumas histórias que eu compartilho sobre a minha migração de carreira, ser uma mulher entrando no universo da área tech e conteúdos técnicos para facilitar o estudo de quem está começando em [Tabatha Pradier | Substack](https://substack.com/profile/101802823-tabatha-pradier?utm_source=user-menu).
 
