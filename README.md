@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu me chamo Tabatha!</h1>
-<h3 align="center">Sou uma desenvolvedora backend brasileira, apaixonada por código, trabalhar em equipe por um objetivo comum, aprender coisas novas e aprofundar aquelas já conhecidas.</h3>
+<h3 align="center">Sou uma Desenvolvedora Full Stack brasileira, apaixonada por código, trabalhar em equipe por um objetivo comum, aprender coisas novas e aprofundar aquelas já conhecidas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tbathat&label=Profile%20views&color=0e75b6&style=flat" alt="tbathat" /> </p>
 
