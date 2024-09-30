@@ -14,9 +14,6 @@
  
 - ⚡ Fun facts: **Eu me apaixonei por lógica em 2021 estudando para concurso públio e por lógica de programação em 2022 estudando para a transição de profissão para a área de desenvolvimento de software e web! Gosto de ouvir álbuns completos na ordem escolhida pelos artistas! E li a saga de Harry Potter pela primeira vez em 2022, aos 30 anos**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tbathat&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
 
  
 <a href="https://app.daily.dev/tbathat"><img src="https://api.daily.dev/devcards/0de4f88e6b0a490d8c09d63a9bd914e4.png?r=fg9" width="400" alt="Tabatha Pradier's Dev Card"/></a>
